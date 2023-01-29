@@ -1,1 +1,1 @@
-# AERO-by-n3k9k
+loadstring(game:HttpGet('https://pastebin.com/raw/JtVq0Rpk')()
